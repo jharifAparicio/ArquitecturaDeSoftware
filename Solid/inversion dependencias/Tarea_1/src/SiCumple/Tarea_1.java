@@ -4,7 +4,6 @@
  */
 package SiCumple;
 
-import noCumpleID.*;
 import java.sql.*;
 import java.util.Scanner;
 
